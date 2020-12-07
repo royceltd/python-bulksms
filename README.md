@@ -8,7 +8,7 @@
 pip install requests
 ```
 
-- Generate API key from [Royce bulksms]('http://bulksms.roycetechnologies.co.ke/')
+Open a free account at [Royce BulkSMS](http://bulksms.roycetechnologies.co.ke), under API menu click generate API
 
 - Update roycebuksms.py file with api key and phone number
 - Test the file
